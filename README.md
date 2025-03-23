@@ -22,8 +22,10 @@ Welcome to my **Machine Learning 101** repository! This is where I document my j
   - NumPy 💡
   - Pandas 📊
   - Matplotlib 📈
+  - Seaborn 📈
   - Scikit-learn 🤖
   - TensorFlow (for future deep learning!)
+  - Pytorch (for future deep learning!)
 
 ## 💬 **Join the Discussion**:
 Let's learn together! Feel free to open issues or pull requests with your insights or improvements. Your feedback is always welcome! 🌟
@@ -44,10 +46,6 @@ I'm passionate about machine learning and data science. 🚀 My goal is to becom
 ---
 
 ## 🌟 **Connect With Me**:
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📱 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 💻 [Portfolio](https://yourwebsite.com)
-
 ---
 
 ### ✨ **Thank you for stopping by!** Let’s keep learning together! 🚀
